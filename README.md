@@ -6,9 +6,8 @@ AMI: Ubuntu Server 18.04 LTS (HVM), SSD Volume Type
 
 ## Update OS and install some libraries
 
-sudo apt-get update
-
-sudo apt-get install libpq-dev gcc
+```sudo apt-get update
+sudo apt-get install libpq-dev gcc```
 
 ## Upgrade to Python 3.7
 
